@@ -1,0 +1,34 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# CDBU0520
+#
+DEF CDBU0520 D 0 0 N N 1 F N
+F0 "D" 0 100 60 H V C CNN
+F1 "CDBU0520" 0 -100 60 H V C CNN
+F2 "esynr3z_Diode:SOD-523F" 200 200 60 H I L CNN
+F3 "http://www.comchiptech.com/cms/UserFiles/CDBU0520-RevA728099.pdf" 200 300 60 H I L CNN
+DRAW
+P 2 0 1 0 50 50 50 -50 N
+P 4 0 1 0 -50 50 -50 -50 50 0 -50 50 F
+X K 1 200 0 150 L 50 50 1 1 P
+X A 2 -200 0 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# E1G
+#
+DEF E1G D 0 0 N N 1 F N
+F0 "D" 0 100 60 H V C CNN
+F1 "E1G" 0 -100 60 H V C CNN
+F2 "esynr3z_Diode:SOD-123FL" 200 200 60 H I L CNN
+F3 "http://www.lrc.cn/data/pdf/SODE1J-SH.pdf" 200 300 60 H I L CNN
+DRAW
+P 2 0 1 0 50 50 50 -50 N
+P 4 0 1 0 -50 50 -50 -50 50 0 -50 50 F
+X K 1 200 0 150 L 50 50 1 1 P
+X A 2 -200 0 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

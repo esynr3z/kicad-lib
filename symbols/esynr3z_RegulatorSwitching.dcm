@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM3488MM
+D Versatile low-side N-FET high performance controller for switching regulators
+K LM3488MM/NOPB
+F http://www.ti.com/lit/ds/symlink/lm3488q-q1.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ICE5LP4K-SG48
+D Lattice iCE40 Ultra family is an ultra-low power FPGA
+K fpga
+$ENDCMP
+#
+#End Doc Library

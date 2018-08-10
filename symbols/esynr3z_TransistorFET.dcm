@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRFH5106PBF
+D HEXFET MOSFET N-channel 60V 100A 5.6mOhm PQFN 5x6
+K IRFH5106PBF
+F https://www.infineon.com/dgdl/irfh5106pbf.pdf?fileId=5546d462533600a40153561ae5e81ea6
+$ENDCMP
+#
+$CMP IRFH7185TRPBF
+D HEXFET MOSFET N-channel 100V 123A 5.2mOhm PQFN 5x6
+K IRFH7185TRPBF
+F https://www.infineon.com/dgdl/irfh7185pbf.pdf?fileId=5546d462533600a40153561ee0b11ee1
+$ENDCMP
+#
+#End Doc Library

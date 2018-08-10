@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ECS-2520MV-500-BN-TR
+D SMD HCMOS Oscillator 50MHZ
+K oscillator
+F https://www.ecsxtal.com/store/pdf/ECS-2520MV.pdf
+$ENDCMP
+#
+#End Doc Library

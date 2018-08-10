@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# SMBJ30CA
+#
+DEF SMBJ30CA D 0 40 Y Y 1 F N
+F0 "D" -216 108 60 H V L CNN
+F1 "SMBJ30CA" 4 -130 60 H V C CNN
+F2 "esynr3z_Diode:SMB" 200 200 60 H I L CNN
+F3 "http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smbj_datasheet.pdf.pdf" 200 300 60 H I L CNN
+DRAW
+P 3 0 1 0 0 0 0 -50 -25 -75 N
+P 3 0 1 0 0 0 0 50 25 75 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 4 0 1 0 100 50 100 -50 0 0 100 50 F
+X ~ 1 -200 0 100 R 50 50 1 1 P
+X ~ 2 200 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
