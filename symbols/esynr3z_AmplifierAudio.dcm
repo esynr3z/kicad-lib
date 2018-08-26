@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM4871
+D 3W Audio Power Amplifier with Shutdown Mode
+K audio amplifier 3w
+$ENDCMP
+#
+#End Doc Library
