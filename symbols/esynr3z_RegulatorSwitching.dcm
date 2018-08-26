@@ -6,4 +6,10 @@ K LM3488MM/NOPB
 F http://www.ti.com/lit/ds/symlink/lm3488q-q1.pdf
 $ENDCMP
 #
+$CMP NCP3163PWG
+D 3.4 A, Step-Up/Down/Inverting 50-300 kHz Switching Regulator, SOIC-16W
+K buck boost inverting
+F https://www.onsemi.com/pub/Collateral/NCP3163-D.PDF
+$ENDCMP
+#
 #End Doc Library
