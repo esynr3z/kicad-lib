@@ -186,6 +186,21 @@ def link_sch_sym_lib(sch_path, sym_lib_name):
             f.write(line)
 
 
+def fix_sym_lib(sym_lib_path, sym_lib_name):
+    with open(sym_lib_path, 'r') as f:
+        raw_lines = f.readlines()
+
+    sym_lib_re = re.compile('(^.*)%s_(.*$)' % sym_lib_name)
+    for line_num in range(0, len(raw_lines)):
+        match = re.search(sym_lib_re, raw_lines[line_num])
+        if match:
+            raw_lines[line_num] = match.group(1) + match.group(2) + "\n"
+
+    with open(sym_lib_path, 'w') as f:
+        for line in raw_lines:
+            f.write(line)
+
+
 # -- Main body ----------------------------------------------------------------
 if sys.version_info < (3, 5, 0):
     print_info("You need python 3.5.0 or later to run this script!")
@@ -297,6 +312,7 @@ proj_sym_lib = proj_sym_lib_path + "/" + proj_sym_lib_name + ".lib"
 if not os.path.exists(proj_sym_lib_path):
     os.makedirs(proj_sym_lib_path)
 shutil.copy(proj_sym_lib_cache, proj_sym_lib)
+fix_sym_lib(proj_sym_lib, proj_sym_lib_name)
 print_dbg("Copy %s to %s" % (proj_sym_lib_cache, proj_sym_lib))
 f = open(proj_path + "/sym-lib-table", 'w')
 f.write('''(sym_lib_table
