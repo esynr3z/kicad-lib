@@ -2,7 +2,7 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP EFD15_2WI
 D Epcos EFD15 core transformer with 2 windings
-K transformer coil magnet
+K transformer
 F ~
 $ENDCMP
 #

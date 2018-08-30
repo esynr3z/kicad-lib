@@ -1,5 +1,6 @@
-(module SOD-523F (layer F.Cu) (tedit 5B4B5214)
+(module SOD-523F (layer F.Cu) (tedit 5B87A8AB)
   (descr "SMD 0603 (1608 Metric) / SOD-523F")
+  (tags "diode 0603 sod-523f")
   (attr smd)
   (fp_text reference REF** (at 0 -1.43) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

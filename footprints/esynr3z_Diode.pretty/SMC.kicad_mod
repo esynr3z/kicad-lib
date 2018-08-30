@@ -1,6 +1,6 @@
-(module SMC (layer F.Cu) (tedit 5B378007)
+(module SMC (layer F.Cu) (tedit 5B87A882)
   (descr "Diode SMC (DO-214AB)")
-  (tags "Diode SMC (DO-214AB)")
+  (tags "diode smc do-214ab")
   (attr smd)
   (fp_text reference REF** (at 0 -4.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

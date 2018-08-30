@@ -1,6 +1,6 @@
-(module LED_Cree-PLCC4_2x2mm_CW (layer F.Cu) (tedit 5B5B56D1)
+(module LED_Cree-PLCC4_2x2mm_CW (layer F.Cu) (tedit 5B87A8C9)
   (descr "2.0mm x 2.0mm PLCC4 LED, http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/HB/Data-Sheets/CLMVBFKA.pdf")
-  (tags "LED Cree PLCC-4")
+  (tags "led cree plcc-4")
   (attr smd)
   (fp_text reference REF** (at 0 -2.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

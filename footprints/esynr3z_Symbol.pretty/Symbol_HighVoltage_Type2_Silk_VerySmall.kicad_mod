@@ -1,6 +1,6 @@
-(module Symbol_HighVoltage_Type2_Silk_VerySmall (layer F.Cu) (tedit 5B38B485)
+(module Symbol_HighVoltage_Type2_Silk_VerySmall (layer F.Cu) (tedit 5B87A9C9)
   (descr "Symbol, High Voltage, Type 2, Silk, Very Small,")
-  (tags "Symbol, High Voltage, Type 2, Silk, Very Small,")
+  (tags "symbol  high voltage")
   (fp_text reference REF** (at -0.127 -5.715) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,14 +1,14 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP CDBU0520
-D SMD Schottky Barrier Diode 20V 500mA
-K diode
+D SMD Schottky Barrier Diode 20V 0.5A
+K schottky diode 20v 0.5a
 F http://www.comchiptech.com/cms/UserFiles/CDBU0520-RevA728099.pdf
 $ENDCMP
 #
 $CMP E1G
 D Fast Rectifier 400V 1A 35ns
-K E1G
+K diode fast 400V 1A
 F http://www.lrc.cn/data/pdf/SODE1J-SH.pdf
 $ENDCMP
 #

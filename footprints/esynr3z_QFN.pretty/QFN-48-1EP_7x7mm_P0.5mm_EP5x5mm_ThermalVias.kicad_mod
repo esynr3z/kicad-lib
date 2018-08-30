@@ -1,6 +1,6 @@
-(module QFN-48-1EP_7x7mm_P0.5mm_EP5x5mm_ThermalVias (layer F.Cu) (tedit 5B4CE793)
+(module QFN-48-1EP_7x7mm_P0.5mm_EP5x5mm_ThermalVias (layer F.Cu) (tedit 5B87A934)
   (descr "48-Lead Plastic Quad Flat, No Lead Package - 7x7 mm Body [QFN]; see figure 37 of http://www.st.com/resource/en/datasheet/stm32f042k6.pdf")
-  (tags "QFN 0.5")
+  (tags "qfn 48 pad thermals")
   (attr smd)
   (fp_text reference REF** (at 0 -4.65) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

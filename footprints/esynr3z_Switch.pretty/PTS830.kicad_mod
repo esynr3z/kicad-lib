@@ -1,6 +1,6 @@
-(module PTS830 (layer F.Cu) (tedit 5B4E2732)
+(module PTS830 (layer F.Cu) (tedit 5B87A99C)
   (descr "C&K Components, PTS 830 Series, Microminiature SMT Top Actuated, https://www.ckswitches.com/media/1478/pts830.pdf")
-  (tags "Button Switch")
+  (tags "smd button tact switch")
   (attr smd)
   (fp_text reference REF** (at 0 -2.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

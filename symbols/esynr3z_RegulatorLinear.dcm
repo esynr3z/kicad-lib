@@ -2,7 +2,7 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP MIC5355-S4YMME
 D Dual 500mA μCap Low Dropout Micropower Linear Regulator, 3.3V/1.2V, MSOP-8
-K Dual LDO 500mA MSOP-8
+K dual ldo 0.5a 3.3v 1.2v
 F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5355_6.pdf
 $ENDCMP
 #

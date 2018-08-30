@@ -2,7 +2,7 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP CLMVC-FKC-CGJJM569aBB7a343
 D LED RGB, common anode (pin 1)
-K led rgb diode
+K led rgb diode ca
 F ~
 $ENDCMP
 #

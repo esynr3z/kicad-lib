@@ -1,6 +1,6 @@
-(module SOIC-16W-1EP_7.5x10.3mm_P1.27mm_ThermalVias (layer F.Cu) (tedit 5B82CCAD)
+(module SOIC-16W-1EP_7.5x10.3mm_P1.27mm_ThermalVias (layer F.Cu) (tedit 5B87A97E)
   (descr "16-Lead Plastic Small Outline (SO) - Wide")
-  (tags "SOIC 1.27")
+  (tags "soic 16w pad thermals")
   (attr smd)
   (fp_text reference REF** (at 0 -6.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

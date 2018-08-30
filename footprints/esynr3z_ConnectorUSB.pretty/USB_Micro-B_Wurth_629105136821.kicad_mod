@@ -1,4 +1,4 @@
-(module USB_Micro-B_Wurth_629105136821 (layer F.Cu) (tedit 5B4E236C)
+(module USB_Micro-B_Wurth_629105136821 (layer F.Cu) (tedit 5B87A854)
   (descr "USB Micro-B receptacle")
   (tags "usb micro receptacle")
   (attr smd)

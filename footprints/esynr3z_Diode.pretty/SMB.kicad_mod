@@ -1,6 +1,6 @@
-(module SMB (layer F.Cu) (tedit 5B378237)
+(module SMB (layer F.Cu) (tedit 5B87A86B)
   (descr "Diode SMB (DO-214AA)")
-  (tags "Diode SMB (DO-214AA)")
+  (tags "diode smb do-214aa")
   (attr smd)
   (fp_text reference REF** (at 0 -3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

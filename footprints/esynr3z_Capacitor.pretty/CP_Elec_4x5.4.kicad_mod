@@ -1,4 +1,4 @@
-(module CP_Elec_4x5.4 (layer F.Cu) (tedit 5B37ADFB)
+(module CP_Elec_4x5.4 (layer F.Cu) (tedit 5B87A776)
   (descr "SMT capacitor, aluminium electrolytic, 4x5.4, Panasonic A5, Nichicon ")
   (tags "Capacitor Electrolytic")
   (attr smd)
@@ -49,6 +49,6 @@
   (model ${KICAD_ESYNR3Z_3DMOD_DIR}/esynr3z_Capacitor.3dshapes/CP_Elec_4x5.4.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 180))
   )
 )

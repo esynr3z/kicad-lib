@@ -1,6 +1,6 @@
-(module LED_0603 (layer F.Cu) (tedit 5B4E1D9D)
+(module LED_0603 (layer F.Cu) (tedit 5B87A8B8)
   (descr "SMD 0603 (1608 Metric)")
-  (tags "LED 0603")
+  (tags "led 0603")
   (attr smd)
   (fp_text reference REF** (at 0 -1.43) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

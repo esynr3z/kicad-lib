@@ -1,6 +1,6 @@
-(module ECS-2520MV_4Pin_2.5x2.0mm (layer F.Cu) (tedit 5B4E276D)
+(module ECS-2520MV_4Pin_2.5x2.0mm (layer F.Cu) (tedit 5B87A8DC)
   (descr "SMD Crystal Oscillator Seiko Epson SG-210 https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-210SED, hand-soldering, 2.5x2.0mm^2 package")
-  (tags "SMD SMT crystal oscillator")
+  (tags "smd crystal oscillator 2520")
   (attr smd)
   (fp_text reference REF** (at 0 -2.55) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

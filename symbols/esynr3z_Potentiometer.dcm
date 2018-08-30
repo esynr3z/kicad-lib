@@ -2,7 +2,7 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP PVZ3A
 D SMD open type trimmer potentiometer
-K PVZ3A
+K smd trimmer potentiometer
 F https://static.chipdip.ru/lib/244/DOC000244587.pdf
 $ENDCMP
 #

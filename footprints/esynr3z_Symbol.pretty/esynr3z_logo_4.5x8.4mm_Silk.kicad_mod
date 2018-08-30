@@ -1,4 +1,5 @@
-(module esynr3z_logo_4.5x8.4mm_Silk (layer F.Cu) (tedit 5B38B0CC)
+(module esynr3z_logo_4.5x8.4mm_Silk (layer F.Cu) (tedit 5B87A9AB)
+  (tags "esynr3z logo")
   (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
   )

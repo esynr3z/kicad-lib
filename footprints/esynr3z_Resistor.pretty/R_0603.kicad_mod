@@ -1,4 +1,4 @@
-(module R_0603 (layer F.Cu) (tedit 5B4E1C3A)
+(module R_0603 (layer F.Cu) (tedit 5B87A93C)
   (descr "SMD 0603 (1608 Metric)")
   (tags "resistor 0603")
   (attr smd)
