@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MBRA340
+D 40V 3A Schottky Barrier Rectifier Diode
+K diode schottky 40v 3a
+F http://www.vishay.com/docs/88526/1n5820.pdf
+$ENDCMP
+#
+#End Doc Library
