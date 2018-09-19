@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BZX84C4V7
+D 300mW Zener Diode, SOT-23
+K zener diode 4.7v
+F https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzx84c2v4.pdf
+$ENDCMP
+#
+#End Doc Library
