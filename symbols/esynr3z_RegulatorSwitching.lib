@@ -8,9 +8,7 @@ F0 "U" -200 150 60 H V R CNN
 F1 "LM3488MM" 1050 -350 60 H V R CNN
 F2 "esynr3z_SO:VSSOP-8_3.0x3.0mm_P0.65mm" 200 200 60 H I L CNN
 F3 "http://www.ti.com/lit/ds/symlink/lm3488q-q1.pdf" 200 300 60 H I L CNN
-F4 "LM3488MM/NOPB" 200 400 60 H I L CNN "MPN"
-F5 "Versatile low-side N-FET high performance controller for switching regulators" 200 500 60 H I L CNN "Description"
-F6 "Texas Instruments" 200 600 60 H I L CNN "Manufacturer"
+F4 "Versatile low-side N-FET high performance controller for switching regulators" 200 500 60 H I L CNN "Description"
 DRAW
 S -300 100 500 -400 0 1 0 f
 X ISEN 1 -400 0 100 R 50 50 1 1 I
