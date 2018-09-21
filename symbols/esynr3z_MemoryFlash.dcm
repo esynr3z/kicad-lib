@@ -1,8 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP AT25D011-SSHF
-D 1M Serial Flash Memory 8pin SPI Flash
-K serial spi flash 1m
+D 1Mb Serial Flash Memory 8pin SPI Flash 2.3V min
+K serial spi flash 1mb
+F https://www.adestotech.com/wp-content/uploads/DS-AT25DN011_038.pdf
+$ENDCMP
+#
+$CMP AT25D081-SSHD
+D 8Mb Serial Flash Memory 8pin SPI Flash 2.3V min
+K serial spi flash 8mb
+F https://www.adestotech.com/wp-content/uploads/DS-AT25SF081_045.pdf
 $ENDCMP
 #
 #End Doc Library
