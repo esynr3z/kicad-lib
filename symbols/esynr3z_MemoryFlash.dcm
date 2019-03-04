@@ -12,4 +12,10 @@ K serial spi flash 8mb
 F https://www.adestotech.com/wp-content/uploads/DS-AT25SF081_045.pdf
 $ENDCMP
 #
+$CMP W25Q80DVSNIG
+D NOR Flash spiFlash, 8M-bit, 4Kb Uniform Sector
+K serial spi flash 8mb
+F https://www.winbond.com/resource-files/w25q80dv_revg_07212015.pdf
+$ENDCMP
+#
 #End Doc Library
