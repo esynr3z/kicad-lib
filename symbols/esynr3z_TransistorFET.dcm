@@ -12,4 +12,16 @@ K mosfet n 100v 123a
 F https://www.infineon.com/dgdl/irfh7185pbf.pdf?fileId=5546d462533600a40153561ee0b11ee1
 $ENDCMP
 #
+$CMP L2N7002WT1G
+D MOSFET N-channel 60V 0.115A SOT-223
+K mosfet n 60v 0.115a
+F https://datasheet.lcsc.com/szlcsc/Leshan-Radio-L2N7002WT1G_C12778.pdf
+$ENDCMP
+#
+$CMP LP1480WT1G
+D MOSFET P-CH 20V 1.4A SOT-323
+K mosfet p 20v 1.4a
+F https://datasheet.lcsc.com/szlcsc/Leshan-Radio-LP1480WT1G_C172434.pdf
+$ENDCMP
+#
 #End Doc Library
