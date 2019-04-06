@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BAT54C
+D Dual schottky diode, common cathode
+K diode smd
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Hottech-BAT54C_C181200.pdf
+$ENDCMP
+#
 $CMP MBRA340
 D 40V 3A Schottky Barrier Rectifier Diode
 K diode schottky 40v 3a
