@@ -1,0 +1,68 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BT_Cell
+D Single battery cell
+K battery cell
+F ~
+$ENDCMP
+#
+$CMP C
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP C_Polar
+D Polarised capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP D_LED
+D LED generic
+K led diode
+F ~
+$ENDCMP
+#
+$CMP J_USB_B_Micro
+D USB Micro Type B connector
+K connector USB micro
+F ~
+$ENDCMP
+#
+$CMP J_USB_B_Mini
+D USB Mini Type B connector
+K connector USB mini
+F ~
+$ENDCMP
+#
+$CMP Q_NMOS_GSD
+D Transistor N-MOSFET with substrate diode (general)
+K NMOS n-mos n-mosfet transistor
+F ~
+$ENDCMP
+#
+$CMP Q_PMOS_GSD
+D Transistor P-MOSFET with substrate diode (general)
+K pmos p-mos p-mosfet transistor
+F ~
+$ENDCMP
+#
+$CMP R
+D Resistor
+K r res resistor
+F ~
+$ENDCMP
+#
+$CMP SW_Push
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+$ENDCMP
+#
+$CMP Y_Crystal
+D Two pin crystal
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
+#End Doc Library
