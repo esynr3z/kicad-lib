@@ -8,6 +8,11 @@ F0 "D" 0 100 50 H V C CNN
 F1 "MBRA340" 0 -100 50 H V C CNN
 F2 "esynr3z_Diode:SMA" 400 250 50 H I C CNN
 F3 "https://www.onsemi.com/pub/Collateral/MBRA340T3-D.PDF" 1200 350 50 H I C CNN
+F4 " " 1200 350 50 H I C CNN "Comment"
+F5 " " 1200 350 50 H I C CNN "Supplier PN"
+F6 " " 1200 350 50 H I C CNN "Manufacturer PN"
+F7 " " 1200 350 50 H I C CNN "Supplier"
+F8 " " 1200 350 50 H I C CNN "Manufacturer"
 DRAW
 P 2 0 1 0 50 0 -50 0 N
 P 4 0 1 8 50 50 50 -50 -50 0 50 50 N

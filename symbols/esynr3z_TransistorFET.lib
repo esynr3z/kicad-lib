@@ -9,6 +9,11 @@ F1 "IRFH5106PBF" 136 0 60 V V C CNN
 F2 "esynr3z_QFN:PQFN_5X6MM" 200 200 60 H I L CNN
 F3 "https://www.infineon.com/dgdl/irfh5106pbf.pdf?fileId=5546d462533600a40153561ae5e81ea6" 200 300 60 H I L CNN
 F4 "HEXFET MOSFET N-channel 60V 100A 5.6mOhm PQFN 5x6" 200 400 60 H I L CNN "Description"
+F5 "HEXFET MOSFET N-channel 60V 100A 5.6mOhm PQFN 5x6" 200 400 60 H I L CNN "Comment"
+F6 " " 200 400 60 H I L CNN "Supplier PN"
+F7 " " 200 400 60 H I L CNN "Manufacturer PN"
+F8 " " 200 400 60 H I L CNN "Supplier"
+F9 " " 200 400 60 H I L CNN "Manufacturer"
 DRAW
 C -50 0 130 0 1 0 f
 C 0 -75 5 0 1 0 N
@@ -46,6 +51,7 @@ F1 "IRFH7185TRPBF" 136 0 60 V V C CNN
 F2 "esynr3z_QFN:PQFN_5X6MM" 200 200 60 H I L CNN
 F3 "https://www.infineon.com/dgdl/irfh7185pbf.pdf?fileId=5546d462533600a40153561ee0b11ee1" 200 300 60 H I L CNN
 F4 "HEXFET MOSFET N-channel 100V 123A 5.2mOhm PQFN 5x6" 200 400 60 H I L CNN "Description"
+F5 "HEXFET MOSFET N-channel 100V 123A 5.2mOhm PQFN 5x6" 200 400 60 H I L CNN "Comment"
 DRAW
 C -50 0 130 0 1 0 f
 C 0 -75 5 0 1 0 N
@@ -81,9 +87,11 @@ DEF L2N7002WT1G Q 0 0 N Y 1 F N
 F0 "Q" -106 143 60 H V R CNN
 F1 "L2N7002WT1G" 136 0 60 V V C CNN
 F2 "esynr3z_SOT:SOT-323_SC-70" 200 200 60 H I L CNN
-F3 "" 200 300 60 H I L CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Leshan-Radio-L2N7002WT1G_C12778.pdf" 200 300 60 H I L CNN
 F4 "C12778" 350 100 50 H I C CNN "LCSC"
 F5 "Leshan Radio" 450 0 50 H I C CNN "Manufacturer"
+F6 "MOSFET N Trench 60V 115mA 2.5V @ 250uA 7.5 Ω @ 500mA，10V SC-70(SC-70-3)" 450 0 50 H I C CNN "Comment"
+F7 "L2N7002WT1G" 450 0 50 H I C CNN "Manufacturer PN"
 DRAW
 C -50 0 130 0 1 0 f
 C 0 -75 5 0 1 0 N
@@ -114,9 +122,11 @@ DEF LP1480WT1G Q 0 0 Y Y 1 F N
 F0 "Q" -106 143 60 H V R CNN
 F1 "LP1480WT1G" 136 -50 60 V V C CNN
 F2 "esynr3z_SOT:SOT-323_SC-70" 200 200 60 H I L CNN
-F3 "" 200 300 60 H I L CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Leshan-Radio-LP1480WT1G_C172434.pdf" 200 300 60 H I L CNN
 F4 "C172434" 400 0 50 H I C CNN "LCSC"
 F5 "Leshan Radio" 450 100 50 H I C CNN "Manufacturer"
+F6 "MOSFET P Trench 20V 1.4A 1V @ 250uA 310 mΩ @ 500mA2.5V SC-70(SC-70-3)" 450 100 50 H I C CNN "Comment"
+F7 "LP1480WT1G" 450 100 50 H I C CNN "Manufacturer PN"
 DRAW
 C -50 0 130 0 1 0 f
 C 0 -75 5 0 1 0 N

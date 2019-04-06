@@ -8,6 +8,11 @@ F0 "D" 0 100 50 H V C CNN
 F1 "BZX84C4V7" 0 -100 50 H V C CNN
 F2 "esynr3z_SOT:SOT-23" 0 -175 50 H I C CNN
 F3 "https://www.onsemi.com/pub/Collateral/BZX84C2V4LT1-D.PDF" 1250 200 50 H I C CNN
+F4 " " 1250 200 50 H I C CNN "Comment"
+F5 " " 1250 200 50 H I C CNN "Supplier PN"
+F6 " " 1250 200 50 H I C CNN "Manufacturer PN"
+F7 " " 1250 200 50 H I C CNN "Supplier"
+F8 " " 1250 200 50 H I C CNN "Manufacturer"
 DRAW
 P 2 0 1 0 50 0 -50 0 N
 P 3 0 1 8 -50 -50 -50 50 -30 50 N

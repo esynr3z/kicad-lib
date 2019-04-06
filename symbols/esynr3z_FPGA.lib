@@ -8,7 +8,11 @@ F0 "U" 900 1950 60 H V L CNN
 F1 "ICE4UP5K-SG48I" 300 1850 60 H V L CNN
 F2 "esynr3z_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5x5mm_ThermalVias" 1500 2250 50 H I C CNN
 F3 "" -650 1000 50 H I C CNN
-F4 "Lattice" 600 2150 50 H I C CNN "Lanufacturer"
+F4 " " 600 2150 50 H I C CNN "Comment"
+F5 " " 600 2150 50 H I C CNN "Supplier PN"
+F6 "ICE4UP5K-SG48I" 600 2150 50 H I C CNN "Manufacturer PN"
+F7 " " 600 2150 50 H I C CNN "Supplier"
+F8 "Lattice" 600 2150 50 H I C CNN "Manufacturer"
 DRAW
 T 0 500 450 50 0 0 0 "BANK 0" Normal 0 C C
 T 0 -500 1600 50 0 1 0 "BANK 1" Normal 0 C C
@@ -78,7 +82,11 @@ F0 "U" 900 1950 60 H V L CNN
 F1 "ICE5LP4K-SG48" 300 1850 60 H V L CNN
 F2 "esynr3z_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5x5mm_ThermalVias" 1500 2250 50 H I C CNN
 F3 "" -650 1000 50 H I C CNN
-F4 "Lattice" 600 2150 50 H I C CNN "Lanufacturer"
+F4 " " 600 2150 50 H I C CNN "Comment"
+F5 " " 600 2150 50 H I C CNN "Supplier PN"
+F6 "ICE5LP4K-SG48" 600 2150 50 H I C CNN "Manufacturer PN"
+F7 " " 600 2150 50 H I C CNN "Supplier"
+F8 "Lattice" 600 2150 50 H I C CNN "Manufacturer"
 DRAW
 T 0 500 450 50 0 0 0 "BANK 0" Normal 0 C C
 T 0 -500 1600 50 0 1 0 "BANK 1" Normal 0 C C

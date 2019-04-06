@@ -8,13 +8,18 @@ F0 "RV" 250 150 50 H V C CNN
 F1 "PVZ3A" 300 50 50 H V C CNN
 F2 "esynr3z_Potentiometer:Murata_PVZ3A" 750 250 50 H I C CNN
 F3 "" 250 150 50 H I C CNN
+F4 " " 250 150 50 H I C CNN "Comment"
+F5 " " 250 150 50 H I C CNN "Supplier PN"
+F6 " " 250 150 50 H I C CNN "Manufacturer PN"
+F7 " " 250 150 50 H I C CNN "Supplier"
+F8 " " 250 150 50 H I C CNN "Manufacturer"
 DRAW
-S 40 100 -40 -100 0 1 10 N
 P 2 0 1 0 100 0 60 0 N
 P 3 0 1 0 45 0 90 20 90 -20 F
 X 1 1 0 150 50 D 50 50 1 1 P
 X 2 2 150 0 50 L 50 50 1 1 P
 X 3 3 0 -150 50 U 50 50 1 1 P
+S 40 100 -40 -100 0 1 10 N
 ENDDRAW
 ENDDEF
 #

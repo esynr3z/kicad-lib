@@ -30,12 +30,6 @@ K connector USB micro
 F ~
 $ENDCMP
 #
-$CMP J_USB_B_Mini
-D USB Mini Type B connector
-K connector USB mini
-F ~
-$ENDCMP
-#
 $CMP Q_NMOS_GSD
 D Transistor N-MOSFET with substrate diode (general)
 K NMOS n-mos n-mosfet transistor

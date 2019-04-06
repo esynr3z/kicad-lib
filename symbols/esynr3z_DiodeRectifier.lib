@@ -8,6 +8,11 @@ F0 "D" 0 100 60 H V C CNN
 F1 "CDBU0520" 0 -100 60 H V C CNN
 F2 "esynr3z_Diode:SOD-523F" 200 200 60 H I L CNN
 F3 "http://www.comchiptech.com/cms/UserFiles/CDBU0520-RevA728099.pdf" 200 300 60 H I L CNN
+F4 " " 200 300 60 H I L CNN "Comment"
+F5 " " 200 300 60 H I L CNN "Supplier PN"
+F6 " " 200 300 60 H I L CNN "Manufacturer PN"
+F7 " " 200 300 60 H I L CNN "Supplier"
+F8 " " 200 300 60 H I L CNN "Manufacturer"
 DRAW
 P 2 0 1 0 50 50 50 -50 N
 P 4 0 1 0 -50 50 -50 -50 50 0 -50 50 F
@@ -23,6 +28,11 @@ F0 "D" 0 100 60 H V C CNN
 F1 "E1G" 0 -100 60 H V C CNN
 F2 "esynr3z_Diode:SOD-123FL" 200 200 60 H I L CNN
 F3 "http://www.lrc.cn/data/pdf/SODE1J-SH.pdf" 200 300 60 H I L CNN
+F4 " " 200 300 60 H I L CNN "Comment"
+F5 " " 200 300 60 H I L CNN "Supplier PN"
+F6 " " 200 300 60 H I L CNN "Manufacturer PN"
+F7 " " 200 300 60 H I L CNN "Supplier"
+F8 " " 200 300 60 H I L CNN "Manufacturer"
 DRAW
 P 2 0 1 0 50 50 50 -50 N
 P 4 0 1 0 -50 50 -50 -50 50 0 -50 50 F
