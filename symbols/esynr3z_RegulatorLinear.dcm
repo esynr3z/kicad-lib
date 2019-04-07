@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LD1117AG-33-AA3-A-R
+D Low Dropout Regulators(LDO) Positive Fixed 1.3V @ 1A 15V 3.3V 1A SOT-223
+K linear regulator ldo fixed positive 3.3v
+F https://datasheet.lcsc.com/szlcsc/1812131554_Unisonic-Tech-LD1117AG-33-AA3-A-R_C71121.pdf
+$ENDCMP
+#
 $CMP MIC5355-S4YMME
 D Dual 500mA μCap Low Dropout Micropower Linear Regulator, 3.3V/1.2V, MSOP-8
 K dual ldo 0.5a 3.3v 1.2v
