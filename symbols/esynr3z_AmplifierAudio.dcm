@@ -3,6 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP LM4871
 D 3W Audio Power Amplifier with Shutdown Mode
 K audio amplifier 3w
+F http://www.ti.com/lit/ds/symlink/lm4871.pdf
 $ENDCMP
 #
 #End Doc Library
