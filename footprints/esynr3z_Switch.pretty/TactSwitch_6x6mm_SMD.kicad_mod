@@ -30,7 +30,7 @@
     (solder_mask_margin 0.1016))
   (pad 2 smd rect (at 4.55 2.25) (size 1.9 1) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.1016))
-  (model ${KICAD_ESYNR3Z_3DMOD_DIR}/esynr3z_Switch.3dshapes/TactSwitch_6x6_SMD.STEP
+  (model ${KIPRJMOD}/packages3d/esynr3z_Switch.3dshapes/TactSwitch_6x6_SMD.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

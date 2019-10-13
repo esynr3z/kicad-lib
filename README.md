@@ -1,13 +1,7 @@
-# KiCad Libs
+# KiCad 5 Libs
 
 This repository contains my collection of KiCad symbols, footprints, 3d models and etc.
-All libs are for KiCad 5 or KiCad 6 Nightly Builds.
 
 ## Recomendations
 
-This lib is not intended to use as git subrepo, so clone and create 3 path variables:
-
-* {$KICAD_ESYNR3Z_3DMOD_DIR} - path to ```kicad-lib/packages3d```
-* {$KICAD_ESYNR3Z_MOD_DIR} - path to ```kicad-lib/footprints```
-* {$KICAD_ESYNR3Z_SYMBOL_DIR} - path to ```kicad-lib/symbols```
-
+This lib is intended to use as a git subrepo, so clone and add it to project specific libraries. All paths inside lib are project relative - based on ${KIPRJMOD} variable.

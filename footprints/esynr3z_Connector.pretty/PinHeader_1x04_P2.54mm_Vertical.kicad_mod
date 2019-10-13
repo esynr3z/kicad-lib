@@ -27,7 +27,7 @@
   (pad 2 thru_hole oval (at 0 2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 0 5.08) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at 0 7.62) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model ${KICAD_ESYNR3Z_3DMOD_DIR}/esynr3z_Connector.3dshapes/PinHeader_1x04_P2.54mm_Vertical.wrl
+  (model ${KIPRJMOD}/packages3d/esynr3z_Connector.3dshapes/PinHeader_1x04_P2.54mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

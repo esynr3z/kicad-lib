@@ -82,7 +82,7 @@
   (pad 3 smd rect (at 0 5.08) (size 2.5 1.7) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0 2.54) (size 2.5 1.7) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 0 0) (size 2.5 1.7) (layers F.Cu F.Paste F.Mask))
-  (model ${KICAD_ESYNR3Z_3DMOD_DIR}/esynr3z_Connector.3dshapes/PinHeader_1x04_P2.54mm_Vertical.wrl
+  (model ${KIPRJMOD}/packages3d/esynr3z_Connector.3dshapes/PinHeader_1x04_P2.54mm_Vertical.wrl
     (offset (xyz 2 0 1))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -75 0))

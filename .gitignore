@@ -1,1 +1,6 @@
 *.bck
+fp-info-cache
+fp-lib-table
+sym-lib-table
+*.kicad_pcb
+*.sch
