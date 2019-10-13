@@ -35,7 +35,7 @@
   (fp_line (start -1.2 -1.4) (end -1.2 1.4) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -3.6 0 90) (size 3.2 2.6) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3.6 0 90) (size 3.2 2.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KIPRJMOD}/packages3d/esynr3z_Diode.3dshapes/D_SMC.wrl
+  (model ${KIPRJMOD}/lib/packages3d/esynr3z_Diode.3dshapes/D_SMC.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

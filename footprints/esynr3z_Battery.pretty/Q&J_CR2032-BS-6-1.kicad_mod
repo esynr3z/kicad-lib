@@ -54,7 +54,7 @@
   (fp_line (start -18 -4) (end -14 -4) (layer F.CrtYd) (width 0.12))
   (pad 1 smd rect (at -14.5 0) (size 5 4.2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 14.5 0) (size 5 4.2) (layers F.Cu F.Paste F.Mask))
-  (model ${KIPRJMOD}/packages3d/esynr3z_Battery.3dshapes/Q&J_CR2032-BS-6-1.STEP
+  (model ${KIPRJMOD}/lib/packages3d/esynr3z_Battery.3dshapes/Q&J_CR2032-BS-6-1.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

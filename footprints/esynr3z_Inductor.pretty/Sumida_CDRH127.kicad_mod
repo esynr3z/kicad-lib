@@ -31,7 +31,7 @@
   (fp_line (start 7.5 6.5) (end 7.5 -6.5) (layer F.CrtYd) (width 0.05))
   (pad 2 smd rect (at 5.25 0) (size 3.5 5.4) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -5.25 0) (size 3.5 5.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KIPRJMOD}/packages3d/esynr3z_Inductor.3dshapes/Sumida_CDRH127.step
+  (model ${KIPRJMOD}/lib/packages3d/esynr3z_Inductor.3dshapes/Sumida_CDRH127.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

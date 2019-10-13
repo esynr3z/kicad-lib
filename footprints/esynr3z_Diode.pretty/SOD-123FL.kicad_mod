@@ -36,7 +36,7 @@
   (fp_line (start -0.4 -0.6) (end -0.4 0.6) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -1.475 0) (size 1.25 1.25) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.475 0) (size 1.25 1.25) (layers F.Cu F.Paste F.Mask))
-  (model ${KIPRJMOD}/packages3d/esynr3z_Diode.3dshapes/D_SOD-123F.wrl
+  (model ${KIPRJMOD}/lib/packages3d/esynr3z_Diode.3dshapes/D_SOD-123F.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
