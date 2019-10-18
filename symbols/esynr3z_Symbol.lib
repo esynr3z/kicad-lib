@@ -292,6 +292,11 @@ F0 "RV" -175 0 50 V V C CNN
 F1 "R_POT_TRIM" -100 0 50 V V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 " " 0 0 50 H I C CNN "Comment"
+F5 " " 0 0 50 H I C CNN "Supplier PN"
+F6 " " 0 0 50 H I C CNN "Manufacturer PN"
+F7 " " 0 0 50 H I C CNN "Supplier"
+F8 " " 0 0 50 H I C CNN "Manufacturer"
 $FPLIST
  Potentiometer*
 $ENDFPLIST
