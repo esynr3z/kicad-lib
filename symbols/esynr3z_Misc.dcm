@@ -6,6 +6,11 @@ K solder jumper SPST
 F ~
 $ENDCMP
 #
+$CMP SolderJumper_3_Bridged12
+D Solder Jumper, 2-pole, closed/bridged
+K solder jumper
+$ENDCMP
+#
 $CMP TestPoint
 D test point
 K test point tp
