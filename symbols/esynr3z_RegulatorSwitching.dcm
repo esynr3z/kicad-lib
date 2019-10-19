@@ -12,6 +12,12 @@ K buck boost inverting
 F https://www.onsemi.com/pub/Collateral/NCP3163-D.PDF
 $ENDCMP
 #
+$CMP TPS54302DDCR
+D DC-DC Converters Step-Down Adjustable 1 4.5V 28V 0.596V 28V 3A TSOT-23-6
+K buck
+F http://www.ti.com/lit/ds/symlink/tps54302.pdf
+$ENDCMP
+#
 $CMP TPS54360DDA
 D 3.5A, Step Down DC-DC Converter with Eco-mode, 4.5-60V Input Voltage, PowerSO-8
 K buck
