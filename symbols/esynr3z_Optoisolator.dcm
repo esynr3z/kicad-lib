@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EL817S1
+D PHOTOTRANSISTOR PHOTOCOUPLER
+K 817
+F http://www.everlight.com/file/ProductFile/EL817.pdf
+$ENDCMP
+#
+#End Doc Library
