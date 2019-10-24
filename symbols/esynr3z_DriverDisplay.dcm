@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PT6311
+D Vacuum Fluorescent Display (VFD) Controller in 52-pin plastic LQFP Package
+K vfd driver pt6311
+F http://www.princeton.com.tw/Portals/0/Product/PT6311_10.pdf
+$ENDCMP
+#
+#End Doc Library
