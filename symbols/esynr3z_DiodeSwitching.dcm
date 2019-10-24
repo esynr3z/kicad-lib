@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAS16TW
+D surface mount fast switching diode array
+F https://www.diodes.com/assets/Datasheets/ds30154.pdf
+$ENDCMP
+#
+#End Doc Library
