@@ -509,6 +509,18 @@ X 2 2 200 0 100 L 50 50 0 1 P
 ENDDRAW
 ENDDEF
 #
+# SYM_Aesthetic
+#
+DEF SYM_Aesthetic SYM 0 40 Y N 1 F N
+F0 "SYM" 0 140 50 H I C CNN
+F1 "SYM_Aesthetic" 0 -125 50 H I C CNN
+F2 "" 0 -175 50 H I C CNN
+F3 "" 30 -200 50 H I C CNN
+DRAW
+P 4 0 1 10 -100 -75 100 -75 0 100 -100 -75 f
+ENDDRAW
+ENDDEF
+#
 # Y_Crystal
 #
 DEF Y_Crystal Y 0 40 N N 1 F N
