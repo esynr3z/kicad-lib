@@ -9,7 +9,13 @@ $ENDCMP
 $CMP MBRA340
 D 40V 3A Schottky Barrier Rectifier Diode
 K diode schottky 40v 3a
-F http://www.vishay.com/docs/88526/1n5820.pdf
+F https://www.onsemi.com/pub/Collateral/MBRA340T3-D.PDF
+$ENDCMP
+#
+$CMP SS34
+D 40V 3A Schottky Barrier Rectifier Diode
+K diode schottky 40v 3a
+F https://www.vishay.com/docs/88751/ss32.pdf
 $ENDCMP
 #
 #End Doc Library
